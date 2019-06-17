@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFHmwk_4_30_2019", "EFHmwk_4_30_2019\EFHmwk_4_30_2019.csproj", "{EAAAE52F-C124-4380-A765-2BE6F868426A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFHmwk_4_30_2019", "EFHmwk_4_30_2019\EFHmwk_4_30_2019.csproj", "{EAAAE52F-C124-4380-A765-2BE6F868426A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFUploadPicture.Web", "EFUploadPicture.Web\EFUploadPicture.Web.csproj", "{B9A37343-1553-4CEC-9F36-D7ECB54D407F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EAAAE52F-C124-4380-A765-2BE6F868426A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAAAE52F-C124-4380-A765-2BE6F868426A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAAAE52F-C124-4380-A765-2BE6F868426A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A37343-1553-4CEC-9F36-D7ECB54D407F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A37343-1553-4CEC-9F36-D7ECB54D407F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A37343-1553-4CEC-9F36-D7ECB54D407F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A37343-1553-4CEC-9F36-D7ECB54D407F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
